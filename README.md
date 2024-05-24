@@ -1,11 +1,11 @@
 <h2> Hey there! I'm Rossella.</h2>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and learning new language.
 - 💼 &nbsp; Searching for a job as Full Stack Developer.
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
