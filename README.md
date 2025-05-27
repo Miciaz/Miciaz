@@ -6,6 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and learning new language.
 - 💼 &nbsp; Working as a Front End Developer in React.
+- :man_student: &nbsp; Currently studying C# and Unity.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
